@@ -12,7 +12,7 @@ int main(int argc, char *argv[]){
 	if(rep == atoi(argv[1])){
 		printf("le nombre %d est parfait",atoi(argv[1]));
 	}
-	/*else{
+	else{
 		printf("le nombre %d n'est pas parfait",atoi(argv[1]));
-	}*/
+	}
 }
